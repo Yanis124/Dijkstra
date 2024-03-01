@@ -15,7 +15,7 @@ The program aims to find the shortest path between two points in a grid using th
 - The user can choose to use the A* or Dijkstra algorithm to find the shortest path.
 - A window opens to display the explored vertices and the final path found.
 - The user can see the number of explored vertices and the length of the found path.
-- The found path is written to the "out.txt" file.
+- The found path is written to the "out.txt" file .
 
 
 
